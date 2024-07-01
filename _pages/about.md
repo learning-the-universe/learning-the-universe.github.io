@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.simonsfoundation.org/'>Simons Foundation</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: icon.jpg
+  image_circular: true # crops the image to make it circular
+  address: >
+    <p><center>Initial Conditions</center></p>
+   
 
-news: true # includes a list of news items
+news: true  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The evolution of our Universe is determined by its initial conditions and the physical laws that govern it. However, neither of these are open to direct determination, but must be inferred from observations. This collaboration plans to carry out this inference using a Bayesian forward modeling approach, where we repeatedly sample a set of initial conditions, predict the observational consequences of that choice, compare to the real observations of galaxies and gas, and compute the likelihood, either explicitly or implicitly, thereby constructing the posterior distribution of the initial conditions. In practice, this is an extremely challenging endeavor because galaxy formation simulations are costly and still only incompletely understood. Furthermore, the dimensionality of the initial parameter space is enormous so standard inference techniques fail.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+To address these challenges, we will employ a three-pronged approach. First, we will develop improved galaxy formation simulations using novel sub-grid models for the influence of stars and black holes. The new models will be built on knowledge gained from detailed, high-resolution simulations of individual star forming regions or accreting black holes that resolve the relevant physical processes. These improved sub-grid models will be implemented in cosmological simulations and can be used to make direct observational predictions for a significant (but still limited) number of samples of initial conditions. Second, the collaboration will use the emerging power of machine learning, which can speed up the forward modeling by factors of millions or billions by training on the relatively small samples of full simulations produced in the first step. Third, we will develop and enhance fast, physically-motivated, neural-net likelihood, simulation-based or likelihood-free inference techniques that have the potential to fully exploit the enormous amount of information from upcoming observational surveys. By harnessing this pending explosion of data, we anticipate generating posterior distributions of not just the cosmological parameters, but the initial conditions and even the uncertain astrophysical parameters.
