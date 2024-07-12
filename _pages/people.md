@@ -4,7 +4,7 @@ permalink: /people/
 title: people
 description: Members of our collaboration
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search..">
