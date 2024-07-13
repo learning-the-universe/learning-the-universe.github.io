@@ -194,6 +194,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  working_groups:
+    output: true
+    permalink: /working_groups/:path/
 
 announcements:
   enabled: true
