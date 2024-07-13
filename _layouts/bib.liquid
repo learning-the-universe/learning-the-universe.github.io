@@ -48,11 +48,11 @@
   <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
     <div class="title">
-    {% if entry.adsurl %}
-      <a href="{{ entry.adsurl }}"> {{ entry.title }} </a>
-    {% else %}
-      {{ entry.title }}
-    {% endif %}
+      {% if entry.adsurl %}
+        <a href="{{ entry.adsurl }}"> {{ entry.title }} </a>
+      {% else %}
+        {{ entry.title }}
+      {% endif %}
     </div>
     <!-- Author -->
     <div class="author">
