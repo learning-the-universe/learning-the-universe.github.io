@@ -15,8 +15,8 @@
               {{ venue_style }}
             {% endif -%}
           >
-            {% if site.data.venues[entry.abbr].url %}
-              <a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a>
+            {% if site.data.venues[entry.abbr].adsurl %}
+              <a href="{{site.data.venues[entry.abbr].adsurl}}">{{ entry.abbr }}</a>
             {% else %}
               <div>{{- entry.abbr -}}</div>
             {% endif %}
