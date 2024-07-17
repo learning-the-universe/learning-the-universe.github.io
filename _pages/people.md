@@ -297,7 +297,7 @@ nav_order: 2
 <tr>
 <td>Lovell</td>
 <td>Chris</td>
-<td>University of Hertfordshire</td>
+<td>University of Portsmouth</td>
 </tr>
 <tr>
 <td>Makinen</td>
