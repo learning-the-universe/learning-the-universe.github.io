@@ -4,7 +4,7 @@ title: Cosmology Working Group
 description: Develops cosmological techniques with advanced subgrid techniques to carry out large cosmological simulations for training and analysis.
 img:
 importance: 1
-category: cosmology
+category: forward models
 related_publications: true
 ---
 

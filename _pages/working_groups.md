@@ -5,7 +5,7 @@ title: working groups
 description: Collaboration working groups
 nav: true
 nav_order: 3
-display_categories: [galaxies, cosmology, inference, machine-learning]
+display_categories: [galaxies, forward models, inference]
 horizontal: false
 ---
 

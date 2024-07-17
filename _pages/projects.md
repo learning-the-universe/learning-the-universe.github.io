@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Learning the Universe Projects
 nav: true
 nav_order: 4
-display_categories: [fun, work]
+display_categories: [Star Formation, Black Holes, Cosmology, Training Sets, Accelerated Forward Models, Synthetic Observations, Explicit Inference, Implicit Inference, Robustness]
 horizontal: false
 ---
 
