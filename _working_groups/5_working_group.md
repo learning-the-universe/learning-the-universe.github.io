@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Accelerated Forward Model Working Group
-description: 
+description: Use Deep Learning to create rapid emulators and inference tools
 img:
 importance: 1
 category: forward models

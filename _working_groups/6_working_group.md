@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Synthetic Observations Working Group
-description: 
+description: Creates realistic galaxy and CMB observables
 img:
 importance: 1
 category: galaxies

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Implicit Likelihood Working Group
-description: 
+description: Develops techniques and tools to infer cosmological information from observations
 img:
 importance: 1
 category: inference

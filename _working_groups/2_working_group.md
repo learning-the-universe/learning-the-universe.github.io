@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Black Hole Working Group
-description:
+description: Develops subgrid models for BH formation, motion, accretion, and feedback
 img: /assets/img/BH_jet.jpg
 importance: 1
 category: galaxies
@@ -12,6 +12,6 @@ The Black Hole working group works to understand supermassive black holes and th
 
 <div class="row">
     <div class="col-sm">
-        {% include figure.liquid loading="eager" path="assets/img/BH_jet.jpg" title="BH jet" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/BH_jet.jpg" title="BH jet" %}
     </div>
 </div>
