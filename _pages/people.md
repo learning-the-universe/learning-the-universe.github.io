@@ -509,7 +509,7 @@ nav_order: 2
         <td>Zhao</td>
         <td>Xiaosheng</td>
         <td>Johns Hopkins University</td>
-    </tr>
+    </tr>
 </tbody></table>
 
 <script>
