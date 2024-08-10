@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Training Set Generation Working Group
-description: Designs and runs large suites of cosmological simulations and works with accelerated forward model and inference groups 
+description: Designs and runs large suites of cosmological simulations and works with accelerated forward model and inference groups
 img:
 importance: 1
 category: forward models

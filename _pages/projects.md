@@ -5,7 +5,18 @@ permalink: /projects/
 description: Learning the Universe Projects
 nav: true
 nav_order: 4
-display_categories: [Star Formation, Black Holes, Cosmology, Training Sets, Accelerated Forward Models, Synthetic Observations, Explicit Inference, Implicit Inference, Robustness]
+display_categories:
+  [
+    Star Formation,
+    Black Holes,
+    Cosmology,
+    Training Sets,
+    Accelerated Forward Models,
+    Synthetic Observations,
+    Explicit Inference,
+    Implicit Inference,
+    Robustness,
+  ]
 horizontal: false
 ---
 
