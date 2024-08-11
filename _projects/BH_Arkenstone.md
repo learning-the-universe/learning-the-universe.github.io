@@ -8,4 +8,4 @@ category: Black Holes
 related_publications: true
 ---
 
-This project is exploring the use of the Arkenstone-hot framework to model the high-specific energy outflows in BH-generated jets. 
+This project is exploring the use of the Arkenstone-hot framework to model the high-specific energy outflows in BH-generated jets.
