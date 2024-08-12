@@ -1,6 +1,4 @@
 github_users:
-  - maho3
-  - gregbryan
 
 repo_description_lines_max: 2
 
@@ -9,4 +7,10 @@ github_repos:
   - maho3/ltu-cmass
   - maho3/ltu-gobig
   - flaresimulations/synthesizer
+  - shivampcosmo/CHARM
+  - shivampcosmo/GOTHAM
+  - Ciela-Institute/tarp
+  - Ciela-Institute/PQM
+  - Ciela-Institute/Astromatic
+  - shivampcosmo/GODMAX
   - learning-the-universe/learning-the-universe.github.io
