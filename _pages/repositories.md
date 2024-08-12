@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /repositories/
-title: Collaboration Code development
-description:
+title: repositories
+description: Collaboration Code development
 nav: true
 nav_order: 7
 ---
 
-## GitHub users
+<!--- ## GitHub users --->
 
 {% if site.data.repositories.github_users %}
 
