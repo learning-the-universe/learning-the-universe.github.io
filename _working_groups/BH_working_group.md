@@ -2,7 +2,7 @@
 layout: page
 title: Black Hole Working Group
 description: Develops subgrid models for BH formation, motion, accretion, and feedback
-img: /assets/img/BH_jet.jpg
+img:
 importance: 1
 category: galaxies
 related_publications: true
