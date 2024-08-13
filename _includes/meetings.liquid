@@ -1,0 +1,34 @@
+<div class="meetings">
+  {% if site.meetings != blank %}
+    {% assign meetings_size = site.meetings | size %}
+    <div
+      class="table-responsive"
+      {% if include.limit and site.announcements.scrollable and meetings_size > 3 %}
+        style="max-height: 60vw"
+      {% endif %}
+    >
+      <table class="table table-sm table-borderless">
+        {% assign meetings = site.meetings | reverse %}
+        {% if include.limit and site.announcements.limit %}
+          {% assign meetings_limit = site.announcements.limit %}
+        {% else %}
+          {% assign meetings_limit = meetings_size %}
+        {% endif %}
+        {% for item in meetings limit: meetings_limit %}
+          <tr>
+            <th scope="row" style="width: 20%">{{ item.start_date | date: '%b %d' }}-{{ item.end_date | date: '%b %d, %Y' }}</th>
+            <td>
+              {% if item.inline %}
+                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+              {% else %}
+                <a class="meetings-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+              {% endif %}
+            </td>
+          </tr>
+        {% endfor %}
+      </table>
+    </div>
+  {% else %}
+    <p>No meetings so far...</p>
+  {% endif %}
+</div>
