@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Robustness/Interpretability Working Group
+title: Robustness / Interpretability Working Group
 description: Works on model misspecification robustness and model interpretability
 img:
 importance: 1
