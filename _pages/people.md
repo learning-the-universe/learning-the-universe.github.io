@@ -373,7 +373,7 @@ nav_order: 2
     <tr>
         <td>Perez</td>
         <td>Lucia</td>
-        <td>Princeton University</td>
+        <td>Flatiron Institute; Princeton University</td>
     </tr>
     <tr>
         <td>Perreault-Levasseur</td>
