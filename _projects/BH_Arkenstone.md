@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arkenstone-jet
-description: A BH jet model using the Arkenstone-hot techniuq
+description: A BH jet model using the Arkenstone-hot technique
 img:
 importance: 1
 category: Black Holes
