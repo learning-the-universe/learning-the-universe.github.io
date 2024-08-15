@@ -8,4 +8,4 @@ category: galaxies
 related_publications: true
 ---
 
-The Synthetic Observations working group develops techniques to take galaxies from hydrodynmaic simulations and semi-analytic models and generate spectral and photometric observables. In addition, the group works to predict secondary CMB anisotropies (kinetic and thermal SZ effects).
+The Synthetic Observations working group develops techniques to take galaxies from hydrodynamical simulations and semi-analytic models and generate spectral and photometric observables. In addition, the group works to predict secondary CMB anisotropies (kinetic and thermal SZ effects).
