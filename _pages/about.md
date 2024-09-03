@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.simonsfoundation.org/'>Simons Foundation</a>.
+subtitle: A <a href='https://www.simonsfoundation.org/'>Simons</a> Collaboration.
 
 profile:
   align: right
