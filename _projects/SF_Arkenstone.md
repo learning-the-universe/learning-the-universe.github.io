@@ -14,7 +14,7 @@ Hot, fast gas phases with low mass loadings are predicted to dominate the energy
 The theoretical framework for this project was described in
 {% cite fb2022 %}; the implementation of the high-specific energy winds
 was described in Paper I {% cite ArkenstoneI %} with a description of the
-cool clouds in Paper II (Smith et al, in prep). We expect to submit a paper (J. Bennett et al) presenting our initial Arkenstone-hot cosmology results in Fall 2024.
+cool clouds in Paper II {% cite ArkenstoneII %}. We expect to submit a paper (J. Bennett et al) presenting our initial Arkenstone-hot cosmology results in Fall 2024.
 
 <div class="row">
     <div class="col-sm">
