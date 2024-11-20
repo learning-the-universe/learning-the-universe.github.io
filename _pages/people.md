@@ -13,6 +13,8 @@ nav_order: 2
 <thead><tr><th title="Field #1">Last</th>
 <th title="Field #2">First</th>
 <th title="Field #3">Institution</th>
+<th title="Field #4">Working Group</th>
+<th title="Field #5">Website</th>
 </tr></thead>
 <tbody>
     {% for row in site.data.members %}
@@ -20,6 +22,8 @@ nav_order: 2
             <td>{{ row.Last }}</td>
             <td>{{ row.First }}</td>
             <td>{{ row.Institution }}</td>
+            <td>{{ row.Working_Group }}</td>
+            <td><a href="{{ row.Website }}">{{ row.Website }}</a></td>
         </tr>
     {% endfor %}
 </tbody></table>
