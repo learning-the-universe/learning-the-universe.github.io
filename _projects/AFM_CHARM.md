@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Power Spectrum Emulators
-description: Power Spectrum Emulators
+title: Halo Generation
+description: Generation of halo catalogs from approximate dark matter density fields
 img:
 importance: 1
 category: Accelerated Forward Models
