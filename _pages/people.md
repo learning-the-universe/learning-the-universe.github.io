@@ -486,6 +486,11 @@ nav_order: 2
         <td>Institut d’Astrophysique de Paris</td>
     </tr>
     <tr>
+        <td>Ward</td>
+        <td>Samuel</td>
+        <td>Flatiron Institute</td>
+    </tr>
+    <tr>
         <td>Weinberger</td>
         <td>Rainer</td>
         <td>Leibniz Institute for Astrophysics Potsdam (AIP)</td>
