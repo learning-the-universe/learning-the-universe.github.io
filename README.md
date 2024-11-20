@@ -20,3 +20,10 @@ Once you've installed the necessary dependencies, you can compile the website by
 ```bash
 bundle exec jekyll serve
 ```
+
+To [optionally] run prettier:
+
+```bash
+npx prettier . --check  # to check
+npx prettier . --write  # to make changes
+```
