@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Power Spectrum Emulators
-description: Power Spectrum Emulators
+title: Pinetree
+description: Generative, fast, and differentiable halo model
 img:
 importance: 1
 category: Accelerated Forward Models
