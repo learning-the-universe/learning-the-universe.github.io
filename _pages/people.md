@@ -23,7 +23,11 @@ nav_order: 2
             <td>{{ row.First }}</td>
             <td>{{ row.Institution }}</td>
             <td>{{ row.Working_Group }}</td>
-            <td><a href="{{ row.Website }}">{{ row.Website }}</a></td>
+            {% if row.Website %}
+                <td><a href="{{ row.Website }}">{{ row.Website }}</a></td>
+            {% else %}
+                <td></td>
+            {% endif %}
         </tr>
     {% endfor %}
 </tbody></table>
