@@ -89,7 +89,7 @@ jobs:
           npm install -g purgecss
           purgecss -c purgecss.config.js
       - name: Deploy 🚀
-        if: github.event_name != 'pull_request'
+        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
         uses: JamesIves/github-pages-deploy-action@v4.6.4
         with:
           folder: _site
