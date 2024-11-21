@@ -38,8 +38,8 @@
         "Last": "Bartlett",
         "First": "Deaglan",
         "Institution": "Institut d'Astrophysique de Paris",
-        "Working_Group": "",
-        "Website": ""
+        "Working_Group": "AFM, ILI, BORG",
+        "Website": "https://deaglanbartlett.github.io/"
     },
     {
         "Last": "Bennett",
@@ -185,7 +185,7 @@
         "Last": "Fielding",
         "First": "Drummond",
         "Institution": "Cornell University",
-        "Working_Group": "Arkenstone",
+        "Working_Group": "SFGW",
         "Website": "https://dfielding14.github.io/"
     },
     {
@@ -290,7 +290,7 @@
         "Last": "Ho",
         "First": "Matthew",
         "Institution": "Columbia University",
-        "Working_Group": "ILI, AFM, BORG, SynthObs",
+        "Working_Group": "ILI, AFM, BORG, SynthObs, Robustness",
         "Website": "https://maho3.github.io/"
     },
     {
@@ -416,8 +416,8 @@
         "Last": "Lovell",
         "First": "Chris",
         "Institution": "University of Portsmouth",
-        "Working_Group": "",
-        "Website": ""
+        "Working_Group": "SynthObs, TSG",
+        "Website": "https://www.christopherlovell.co.uk/"
     },
     {
         "Last": "Makinen",
