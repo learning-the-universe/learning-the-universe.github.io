@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Power Spectrum Emulators
-description: Power Spectrum Emulators
+title: Higher resolution N-body simulations
+description: Learn corrections to the equations of motion of dark matter
 img:
 importance: 1
 category: Accelerated Forward Models

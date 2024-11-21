@@ -15,3 +15,5 @@ We also submitted a paper {% cite Hassan2024 %} in which we post-processed outpu
 We explored the impact of this model on cosmological simulations in a post-processing approximation {% cite Hassan2024 %}.
 Because the PRFM model has higher star formation efficiency (SFE) at higher density and pressure while the native-TNG model has nearly constant SFE, we expect implementation of the PRFM SFR model in next-generation LtU cosmological simulations will lead to significant enhancements of star formation at high redshift, consistent with recent JWST observations.
 We have also worked with the Cosmological Modeling Working Group to implement the PRFM-resolved subgrid model, and we have been testing an implementation of PRFM-unresolved in isolated galaxies.
+
+{% include figure.liquid loading="eager" path="assets/img/LtU-TIGRESS_NCR_LGR4.png" title="tigress ncr" %}
