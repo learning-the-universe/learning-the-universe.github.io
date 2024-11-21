@@ -2,7 +2,7 @@
 layout: page
 title: Implicit Likelihood Inference
 description: Developing techniques to infer information from astronomical observations
-img:
+img: assets/img/ltu-ili.png
 importance: 1
 category: inference
 related_publications: true
