@@ -11,8 +11,8 @@ related_publications: true
 ### People
 **Leads**: Matthew Ho, Benjamin Wandelt
 
-
-**Members**: {% capture members_list %}
+{% capture members_list %}
+**Members**: 
 {% for row in site.data.members %}
 {% if row.Working_Group contains "ILI" %}
 {{ row.First }} {{ row.Last }}, 
@@ -22,7 +22,11 @@ related_publications: true
 {{ members_list | strip_newlines }}
 
 ### Description
-The Implicit Likelihood working group develops techniques to carry out inference (including high dimensional inference) in cases where the full likelihood or posterior cannot easily be written down and is instead described with machine-learning tools.
+The Implicit Likelihood Inference (ILI) working group develops state-of-the-art techniques to perform observational inference for problems where the full, analytic likelihood cannot be easily described. This is achieved through the use of machine learning models, which learn the likelihood of observational data directly from simulations.
+
+The ILI group also creates and maintains generalized software solutions to tackle the diverse physical challenges studied by the Learning the Universe (LtU) collaboration. This includes the development of the LtU-ILI framework {% cite 2024arXiv240205137H %}, a highly configurable and user-friendly software package that provides access to multiple simulation-based inference techniques. The framework facilitates the comparison of different ILI methods on standardized test problems, making these cutting-edge tools more accessible to the broader scientific community. Additionally, the group explores high-dimensional inference challenges, including those complementary to the BORG group’s efforts to infer three-dimensional cosmological initial conditions {% cite 2024MNRAS.527L.173L %}.
+
+ILI also leads the flagship LtU cosmological survey analysis of the CMASS galaxy sample from the Sloan Digital Sky Survey (SDSS). Incorporating tools from the AFM, Robustness, and SynthObs groups, we have developed a modular simulation pipeline to rapidly generate mock galaxy catalogs for the CMASS sample. We then apply ILI techniques to infer cosmological parameters from real data. To date, this is the largest application of Implicit Likelihood Inference to a spectroscopic galaxy survey and the first to use accelerated forward models to emulate full N-body simulations.
 
 ### Projects
 <ul>
