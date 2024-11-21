@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Implicit Likelihood Inference Working Group
-description: Develops techniques and tools to infer cosmological information from observations
+title: Implicit Likelihood Inference
+description: Developing techniques to infer information from astronomical observations
 img:
 importance: 1
 category: inference
