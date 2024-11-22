@@ -2,7 +2,7 @@
 layout: page
 title: Synthetic Galaxies
 description: Mock Galaxy observations
-img: assets/img/CAMELS_photometry.png
+img: assets/img/CAMELS_LFs.png
 importance: 1
 category: Synthetic Observations
 related_publications: true
