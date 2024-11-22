@@ -45,9 +45,9 @@ jobs:
       - uses: actions/checkout@v4
 
       # Step to remove Liquid placeholders before running the link checker
-      - name: Preprocess links to remove Liquid placeholders
+      - name: Remove Liquid placeholders
         run: |
-          # Replace links with Liquid placeholders with a temporary string in the _site directory (or other relevant directories)
+          # Replace links with Liquid placeholders with a temporary string
           find . -type f -name "*.html" -exec sed -i 's/{{.*}}/IGNORE_LINK/g' {} \;
           find . -type f -name "*.md" -exec sed -i 's/{{.*}}/IGNORE_LINK/g' {} \;
 
