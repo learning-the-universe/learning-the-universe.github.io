@@ -12,3 +12,5 @@ The BORG (Bayesian Origin Reconstruction from Galaxies) group uses Bayesian tech
 
 The core idea of what we are trying to achieve is summarized by the following figure:
 {% include figure.liquid loading="eager" path="assets/img/BORG_in_a_shot.jpg" title="BORG schematic" %}
+
+For more information, visit the [Aquila Consortium website](https://www.aquila-consortium.org/).
