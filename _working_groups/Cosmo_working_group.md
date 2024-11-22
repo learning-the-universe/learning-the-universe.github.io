@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cosmology
-description: Develops cosmological techniques with advanced subgrid techniques to carry out large cosmological simulations for training and analysis.
+description: Developing cosmological techniques with advanced subgrid techniques to carry out large cosmological simulations for training and analysis.
 img:
 importance: 1
 category: forward models

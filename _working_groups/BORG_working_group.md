@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Explicit Likelihood (BORG)
-description: Infers cosmological initial conditions
+description: Inferring cosmological initial conditions
 img:
 importance: 1
 category: inference
@@ -14,7 +14,7 @@ related_publications: true
 {% capture members_list %}
 **Members**: 
 {% for row in site.data.members %}
-{% if row.Working_Group contains "ILI" %}
+{% if row.Working_Group contains "BORG" %}
 {{ row.First }} {{ row.Last }}, 
 {% endif %}
 {% endfor %}
@@ -29,3 +29,13 @@ The core idea of what we are trying to achieve is summarized by the following fi
 {% include figure.liquid loading="eager" path="assets/img/BORG_in_a_shot.jpg" title="BORG schematic" %}
 
 For more information, visit the [Aquila Consortium website](https://www.aquila-consortium.org/).
+
+
+### Projects
+<ul>
+{% for project in site.projects %}
+  {% if project.category contains "BORG" %}
+    <li><a href="{{ project.url }}">{{ project.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>

@@ -4,7 +4,7 @@ title: Manticore
 description: Manticore Project -- 3D Inference of Primordial Density Fields
 img:
 importance: 1
-category: Explicit Inference
+category: BORG
 related_publications: true
 ---
 

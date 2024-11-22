@@ -2,7 +2,7 @@
 layout: page
 title: Expanded Training Sets
 description: Training sets with expanded sub-grid parameter spaces
-img: assets/img/CAMELS_Swift-EAGLE.png
+img: assets/img/CAMELS_Swift_EAGLE.png
 importance: 1
 category: Training Sets
 related_publications: false
