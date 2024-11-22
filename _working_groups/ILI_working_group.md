@@ -31,7 +31,6 @@ ILI innovates on these techniques, developing new state-of-the-art tools for per
 ILI also leads the flagship LtU cosmological survey analysis of the CMASS galaxy sample from the Sloan Digital Sky Survey (SDSS). Incorporating tools from the AFM, Robustness, and SynthObs groups, we have developed a modular simulation pipeline to rapidly generate mock galaxy catalogs for the CMASS sample. We then apply ILI techniques to infer cosmological parameters from real data. To date, this is the largest application of Implicit Likelihood Inference to a spectroscopic galaxy survey and the first to use accelerated forward models to emulate full N-body simulations.
 
 ### Projects
-<!-- markdown-link-check-disable -->
 <ul>
 {% for project in site.projects %}
   {% if project.category contains "Implicit Inference" %}
@@ -39,4 +38,3 @@ ILI also leads the flagship LtU cosmological survey analysis of the CMASS galaxy
   {% endif %}
 {% endfor %}
 </ul>
-<!-- markdown-link-check-enable -->
