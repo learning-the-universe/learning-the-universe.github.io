@@ -44,8 +44,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Step to remove Liquid placeholders before running the link checker
+      - name: Preprocess links to remove Liquid placeholders
+        run: |
+          # Replace links with Liquid placeholders with a temporary string in the _site directory (or other relevant directories)
+          find _site -type f -name "*.html" -exec sed -i 's/{{.*}}/IGNORE_LINK/g' {} \;
+
       - name: Link Checker 🔗
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          args: --user-agent 'curl/7.54' --exclude-path al-folio-README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _pages/people.md --verbose --no-progress --exclude-link-local './**/*.md' './**/*.html' './_data/**/*.yml'
+          args: --user-agent 'curl/7.54' --exclude-path al-folio-README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _pages/people.md --verbose --no-progress './**/*.md' './**/*.html' './_data/**/*.yml'
