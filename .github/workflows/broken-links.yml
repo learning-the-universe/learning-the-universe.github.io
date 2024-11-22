@@ -48,4 +48,4 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          args: --user-agent 'curl/7.54' --exclude-path al-folio-README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _pages/people.md --exclude-path _working_groups/* --verbose --no-progress './**/*.md' './**/*.html' './_data/**/*.yml'
+          args: --user-agent 'curl/7.54' --exclude-path al-folio-README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --exclude-path _pages/people.md --verbose --no-progress --exclude-link-local './**/*.md' './**/*.html' './_data/**/*.yml'
