@@ -2,7 +2,7 @@
 layout: page
 title: Synthetic Observations Working Group
 description: Creates realistic galaxy and CMB observables
-img:
+img: assets/img/CAMELS_photometry.png
 importance: 1
 category: galaxies
 related_publications: true
