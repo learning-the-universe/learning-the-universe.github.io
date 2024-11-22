@@ -1,12 +1,27 @@
 ---
 layout: page
-title: Explicit Likelihood (BORG) Working Group
+title: Explicit Likelihood (BORG)
 description: Infers cosmological initial conditions
 img:
 importance: 1
 category: inference
 related_publications: true
 ---
+
+### People
+**Leads**: Jens Jasche, Guilhem Lavaux
+
+{% capture members_list %}
+**Members**: 
+{% for row in site.data.members %}
+{% if row.Working_Group contains "ILI" %}
+{{ row.First }} {{ row.Last }}, 
+{% endif %}
+{% endfor %}
+{% endcapture %}
+{{ members_list | strip_newlines }}
+
+### Description
 
 The BORG (Bayesian Origin Reconstruction from Galaxies) group uses Bayesian techniques coupled with fast dark matter forward models and flexible galaxy models to infer the cosmological initial conditions based on present day galaxy redshift catalogs and other data.
 
