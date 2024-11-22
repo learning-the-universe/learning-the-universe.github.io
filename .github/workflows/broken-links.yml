@@ -48,7 +48,9 @@ jobs:
       - name: Preprocess links to remove Liquid placeholders
         run: |
           # Replace links with Liquid placeholders with a temporary string in the _site directory (or other relevant directories)
-          find _site -type f -name "*.html" -exec sed -i 's/{{.*}}/IGNORE_LINK/g' {} \;
+          find . -type f -name "*.html" -exec sed -i 's/{{.*}}/IGNORE_LINK/g' {} \;
+          find . -type f -name "*.md" -exec sed -i 's/{{.*}}/IGNORE_LINK/g' {} \;
+
 
       - name: Link Checker 🔗
         uses: lycheeverse/lychee-action@v1.9.0
