@@ -21,6 +21,7 @@ related_publications: true
 {% endcapture %}
 {{ members_list | strip_newlines }}
 
+
 ### Description
 The Implicit Likelihood Inference (ILI) working group develops state-of-the-art techniques to perform observational inference for problems where the full, analytic likelihood cannot be easily described. This is achieved through the use of machine learning models, which learn the likelihood of observational data directly from simulations.
 
@@ -29,6 +30,7 @@ The ILI group also creates and maintains generalized software solutions to tackl
 ILI innovates on these techniques, developing new state-of-the-art tools for performing automated inference on astrophysical datasets. These include: optimal information extraction and compression, amortized estimation of Bayesian evidence {% cite 2024MLS&T...5a5008J %}, information aggregation from set-based data {% cite 2023arXiv231003812M %}, field-level inference {% cite 2023arXiv231015234D %}, sensitivity tests {% cite 2023arXiv230915071M %}, and machine learning interpretability tools {% cite ho2023information %}. These works are developed out of necessity for the problems studied in the LtU collaboration, but are practically applicable to a wide range of scientific inference problems.
 
 ILI also leads the flagship LtU cosmological survey analysis of the CMASS galaxy sample from the Sloan Digital Sky Survey (SDSS). Incorporating tools from the AFM, Robustness, and SynthObs groups, we have developed a modular simulation pipeline to rapidly generate mock galaxy catalogs for the CMASS sample. We then apply ILI techniques to infer cosmological parameters from real data. To date, this is the largest application of Implicit Likelihood Inference to a spectroscopic galaxy survey and the first to use accelerated forward models to emulate full N-body simulations.
+
 
 ### Projects
 <ul>
