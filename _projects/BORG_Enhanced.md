@@ -4,7 +4,7 @@ title: BORG enhanced
 description: Improving data models for inference
 img:
 importance: 1
-category: Explicit Inference
+category: BORG
 related_publications: true
 ---
 
