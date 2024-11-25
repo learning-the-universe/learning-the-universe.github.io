@@ -354,13 +354,13 @@
         "First": "Lucas",
         "Institution": "Imperial College London",
         "Working_Group": "ILI",
-        "Website": ""
+        "Website": "https://tlmakinen.github.io/"
     },
     {
         "Last": "Perez",
         "First": "Lucia",
-        "Institution": "Flatiron Institute; Princeton University",
-        "Working_Group": "SynthObs",
+        "Institution": "Flatiron Institute",
+        "Working_Group": "SynthObs, TSG, ILI, AFM",
         "Website": ""
     },
     {
@@ -434,7 +434,7 @@
         "Website": ""
     },
     {
-        "Last": "Cranmar",
+        "Last": "Cranmer",
         "First": "Miles",
         "Institution": "Flatiron Institute",
         "Working_Group": "",
@@ -549,7 +549,7 @@
         "Last": "Ward",
         "First": "Samuel",
         "Institution": "Flatiron Institute",
-        "Working_Group": "",
+        "Working_Group": "BH",
         "Website": ""
     },
     {
@@ -604,29 +604,29 @@
     {
         "Last": "Koudmani",
         "First": "Sophie",
-        "Institution": "University of Cambridge",
+        "Institution": "University of Hertfordshire",
         "Working_Group": "BH",
-        "Website": ""
+        "Website": "https://skoudmani.github.io/"
     },
     {
         "Last": "Wilkins",
         "First": "Steve",
         "Institution": "University of Sussex",
-        "Working_Group": "",
+        "Working_Group": "SynthObs",
         "Website": ""
     },
     {
         "Last": "Hassan",
         "First": "Sultan",
         "Institution": "NYU",
-        "Working_Group": "SynthObs",
+        "Working_Group": "SFGW, SynthObs",
         "Website": ""
     },
     {
         "Last": "Costa",
         "First": "Tiago",
         "Institution": "Newcastle University",
-        "Working_Group": "",
+        "Working_Group": "BH",
         "Website": ""
     },
     {
@@ -640,7 +640,7 @@
         "Last": "Steinwandel",
         "First": "Ulrich",
         "Institution": "Flatiron Institute",
-        "Working_Group": "SynthObs",
+        "Working_Group": "SFGW, SynthObs",
         "Website": ""
     },
     {

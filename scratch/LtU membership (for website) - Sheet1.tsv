@@ -49,8 +49,8 @@ Hernquist	Lars	Harvard University	BH
 Sommovigo	Laura	Flatiron Institute	SynthObs	
 Perreault-Levasseur	Laurence	Université de Montréal	AFM	
 Thiele	Leander	IPMU, University of Tokyo	ILI	
-Makinen	Lucas	Imperial College London	ILI	
-Perez	Lucia	Flatiron Institute; Princeton University	SynthObs	
+Makinen	Lucas	Imperial College London	ILI	https://tlmakinen.github.io/
+Perez	Lucia	Flatiron Institute	SynthObs, TSG, ILI, AFM	
 Doeser	Ludvig	Stockholm University	BORG	
 Siwek	Magdalena	Columbia University	BH	
 Prunier	Marine	University de Montreal	AFM	
@@ -61,7 +61,7 @@ Smith	Matthew	Max-Planck-Institute for Astrophysics	SFGW
 Lee	Max	Columbia University	TSG	
 Ata	Metin	Stockholm University	BORG	
 Hirschmann	Michaela	École polytechnique fédérale de Lausanne (EPFL)	SynthObs	
-Cranmar	Miles	Flatiron Institute		
+Cranmer	Miles	Flatiron Institute		
 Guo	Minghao	Princeton University	BH	
 Soler Matubaro de Santi	Natali	Flatiron Institute		
 Jeffrey	Niall	University College London	ILI	
@@ -77,7 +77,7 @@ Legin	Ronan	Université de Montréal	AFM
 Malandrino	Rosa	Institut d'Astrophysique de Paris	ILI	
 Talbot	Rosemary	Max-Planck-Institute for Astrophysics	BH	
 Pakmor	Ruediger	Max-Planck-Institute for Astrophysics	COSMO	
-Ward	Samuel	Flatiron Institute		
+Ward	Samuel	Flatiron Institute	BH	
 Jeffreson	Sarah	Harvard University	SFGW	
 Ho	Shirley	Flatiron institute	ILI, AFM	
 Pandey	Shivam	University of Pennsylvania	ILI, AFM, SynthObs	
@@ -85,12 +85,12 @@ Genel	Shy	Flatiron Institute	TSG
 Ding	Simon	Institut d'Astrophysique de Paris	BORG	
 Ferraro	Simone	Lawrence Berkeley Lab	SynthObs	
 Hattori	Soichiro	Columbia University Astronomy Department		
-Koudmani	Sophie	University of Cambridge	BH	
-Wilkins	Steve	University of Sussex		
-Hassan	Sultan	NYU	SynthObs	
-Costa	Tiago	Newcastle University		
+Koudmani	Sophie	University of Hertfordshire	BH	https://skoudmani.github.io/
+Wilkins	Steve	University of Sussex	SynthObs	
+Hassan	Sultan	NYU	SFGW, SynthObs	
+Costa	Tiago	Newcastle University	BH	
 Starkenburg	Tjitske	Northwestern University	SynthObs	
-Steinwandel	Ulrich	Flatiron Institute	SynthObs	
+Steinwandel	Ulrich	Flatiron Institute	SFGW, SynthObs	
 Jindal	Vaibhav	Carnegie Mellon University		
 Pandya	Viraj	Columbia University	SynthObs	
 Springel	Volker	Max-Planck-Institute for Astrophysics	COSMO	
