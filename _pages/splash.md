@@ -9,7 +9,7 @@ nav_order: 9
 
 <div class="publications">
 
-{% bibliography --file splash --order=descending %}
+{% bibliography --file splash --order=descending --expand %}
 
 </div>
 
