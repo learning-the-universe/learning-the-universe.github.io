@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /working_groups/
-title: working groups
+title: groups
 description: Collaboration working groups
 nav: true
 nav_order: 3

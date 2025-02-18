@@ -1,6 +1,6 @@
 ---
 layout: page
-title: splash 1
+title: splash
 permalink: /splash/
 description: Papers released in the first LtU splash on Feb 18, 2025.
 nav: true
