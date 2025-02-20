@@ -12,5 +12,3 @@ nav_order: 9
 {% bibliography --file splash --order=descending --expand %}
 
 </div>
-
-arXiv links will be made available on this page once public, but if not visit [arXiv astro-ph](https://arxiv.org/list/astro-ph/new) to view recent papers.
