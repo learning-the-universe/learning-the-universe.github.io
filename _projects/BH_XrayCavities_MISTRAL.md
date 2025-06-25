@@ -1,7 +1,7 @@
 ---
 layout: page
-title: X-ray Cavity with MISTRAL black hole feedback model
-description: Investigates the presence and properties of AGN-driven X-ray cavities in simulations of massive galaxies with the SMBH feedback model MISTRAL
+title: X-ray Cavities with MISTRAL black hole feedback model
+description: Investigates the presence and properties of AGN-driven X-ray cavities in cosmological zoom-in simulations of massive galaxies with the SMBH feedback model MISTRAL
 img:
 importance: 1
 category: Black Holes
