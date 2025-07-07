@@ -16,6 +16,6 @@ Additionally, a companion study will assess the ability of Mistral to produce AG
 
 <div class="row">
     <div class="col-sm">
-        {% include figure.liquid loading="eager" path=“assets/img/mistral_maps.png" title="Mistral winds" %}
+        {% include figure.liquid loading="eager" path="assets/img/mistral_maps.png" title="Mistral winds" %}
     </div>
 </div>
