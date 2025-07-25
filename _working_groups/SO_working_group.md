@@ -2,7 +2,7 @@
 layout: page
 title: Synthetic Observations
 description: Creating realistic galaxy and CMB observables
-img: assets/img/synthobs_overview.png
+img:
 importance: 1
 category: galaxies
 related_publications: true
@@ -24,13 +24,6 @@ related_publications: true
 
 ### Description
 The Synthetic Observations working group develops techniques to take galaxies from hydrodynamical simulations and semi-analytic models and generate spectral and photometric observables. In addition, the group works to predict secondary CMB anisotropies (kinetic and thermal SZ effects).
-
-<div class="row">
-    <div class="col-sm">
-        {% include figure.liquid loading="eager" path="assets/img/CAMELS_photometry.png" title="BH jet" %}
-    </div>
-</div>
-
 
 ### Projects
 <ul>
