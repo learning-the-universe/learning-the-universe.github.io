@@ -1,16 +1,16 @@
 [
     {
-        "Last": "Yung",
-        "First": "Aaron",
-        "Institution": "Space Telescope Science Institute",
+        "Last": "Acharya",
+        "First": "Anshuman",
+        "Institution": "University of California Berkeley",
         "Working_Group": "SynthObs",
-        "Website": ""
+        "Website": "https://www.anshumanastro.com"
     },
     {
-        "Last": "Singh",
-        "First": "Aarti",
-        "Institution": "Carnegie Mellon University",
-        "Working_Group": "Robustness",
+        "Last": "Alsing",
+        "First": "Justin",
+        "Institution": "Stockholm University",
+        "Working_Group": "ILI",
         "Website": ""
     },
     {
@@ -21,401 +21,9 @@
         "Website": ""
     },
     {
-        "Last": "Delgado",
-        "First": "Ana Maria",
-        "Institution": "Harvard University",
-        "Working_Group": "ILI",
-        "Website": ""
-    },
-    {
-        "Last": "Bairagi",
-        "First": "Anirban",
-        "Institution": "Institut d'Astrophysique de Paris",
-        "Working_Group": "ILI",
-        "Website": ""
-    },
-    {
-        "Last": "Bera",
-        "First": "Ankita",
-        "Institution": "University of Maryland, College Park",
-        "Working_Group": "",
-        "Website": ""
-    },
-    {
-        "Last": "Genina",
-        "First": "Anna",
-        "Institution": "Max-Planck-Institute for Astrophysics",
-        "Working_Group": "BH",
-        "Website": ""
-    },
-    {
-        "Last": "Bourdin",
-        "First": "Antoine",
-        "Institution": "McGill University",
-        "Working_Group": "AFM",
-        "Website": ""
-    },
-    {
-        "Last": "Gabrielpillai",
-        "First": "Austen",
-        "Institution": "CUNY Graduate Center",
-        "Working_Group": "SynthObs",
-        "Website": ""
-    },
-    {
-        "Last": "Lapel",
-        "First": "Axel",
-        "Institution": "Institut d'Astrophysique de Paris",
-        "Working_Group": "BORG",
-        "Website": ""
-    },
-    {
-        "Last": "Wandelt",
-        "First": "Ben",
-        "Institution": "Johns Hopkins University",
-        "Working_Group": "ILI",
-        "Website": ""
-    },
-    {
-        "Last": "Oh",
-        "First": "Boon Kiat",
-        "Institution": "University of Connecticut",
-        "Working_Group": "TSG",
-        "Website": ""
-    },
-    {
-        "Last": "Hadzhiyska",
-        "First": "Boryana",
-        "Institution": "University of California Berkeley",
-        "Working_Group": "SynthObs",
-        "Website": ""
-    },
-    {
-        "Last": "Terrazas",
-        "First": "Bryan",
-        "Institution": "Oberlin College",
-        "Working_Group": "BH",
-        "Website": ""
-    },
-    {
-        "Last": "Cuesta-Lazaro",
-        "First": "Carolina",
-        "Institution": "Harvard University",
-        "Working_Group": "ILI, AFM",
-        "Website": ""
-    },
-    {
-        "Last": "Kim",
-        "First": "Chang-Goo",
-        "Institution": "Princeton University",
-        "Working_Group": "SFGW",
-        "Website": "https://changgoo.github.io/"
-    },
-    {
-        "Last": "Hahn",
-        "First": "ChangHoon",
-        "Institution": "Princeton University",
-        "Working_Group": "ILI",
-        "Website": ""
-    },
-    {
-        "Last": "Wilson",
-        "First": "Charles",
-        "Institution": "University de Montreal",
-        "Working_Group": "",
-        "Website": ""
-    },
-    {
-        "Last": "Modi",
-        "First": "Chirag",
-        "Institution": "Flatiron Institute",
-        "Working_Group": "ILI",
-        "Website": ""
-    },
-    {
-        "Last": "Boonkongkird",
-        "First": "Chotipan",
-        "Institution": "Institut d'Astrophysique de Paris (IAP)",
-        "Working_Group": "BORG",
-        "Website": ""
-    },
-    {
-        "Last": "Hayward",
-        "First": "Chris",
-        "Institution": "Flatiron Institute",
-        "Working_Group": "SynthObs",
-        "Website": ""
-    },
-    {
-        "Last": "Lovell",
-        "First": "Chris",
-        "Institution": "University of Portsmouth",
-        "Working_Group": "SynthObs, TSG",
-        "Website": "https://www.christopherlovell.co.uk/"
-    },
-    {
-        "Last": "Jespersen",
-        "First": "Christian",
-        "Institution": "Princeton University",
-        "Working_Group": "ILI, AFM",
-        "Website": ""
-    },
-    {
         "Last": "Angl\u00e9s-Alc\u00e1zar",
         "First": "Daniel",
         "Institution": "University of Connecticut",
-        "Working_Group": "TSG",
-        "Website": ""
-    },
-    {
-        "Last": "Levy",
-        "First": "Daniel",
-        "Institution": "University de Montreal",
-        "Working_Group": "",
-        "Website": ""
-    },
-    {
-        "Last": "Spergel",
-        "First": "David",
-        "Institution": "Simons Foundation",
-        "Working_Group": "",
-        "Website": ""
-    },
-    {
-        "Last": "Bartlett",
-        "First": "Deaglan",
-        "Institution": "Institut d'Astrophysique de Paris",
-        "Working_Group": "AFM, ILI, BORG",
-        "Website": "https://deaglanbartlett.github.io/"
-    },
-    {
-        "Last": "Fielding",
-        "First": "Drummond",
-        "Institution": "Cornell University",
-        "Working_Group": "SFGW",
-        "Website": "https://dfielding14.github.io/"
-    },
-    {
-        "Last": "Quataert",
-        "First": "Eliot",
-        "Institution": "Princeton University",
-        "Working_Group": "",
-        "Website": ""
-    },
-    {
-        "Last": "Choi",
-        "First": "Ena",
-        "Institution": "University of Seoul",
-        "Working_Group": "",
-        "Website": ""
-    },
-    {
-        "Last": "Ostriker",
-        "First": "Eve",
-        "Institution": "Princeton University",
-        "Working_Group": "SFGW",
-        "Website": ""
-    },
-    {
-        "Last": "Leclercq",
-        "First": "Florent",
-        "Institution": "Institut d'Astrophysique de Paris",
-        "Working_Group": "BORG",
-        "Website": ""
-    },
-    {
-        "Last": "Villaescusa-Navarro",
-        "First": "Francisco",
-        "Institution": "Flatiron Institute",
-        "Working_Group": "TSG",
-        "Website": ""
-    },
-    {
-        "Last": "Garcia",
-        "First": "Fred",
-        "Institution": "Columbia University",
-        "Working_Group": "",
-        "Website": ""
-    },
-    {
-        "Last": "Bryan",
-        "First": "Greg",
-        "Institution": "Columbia University",
-        "Working_Group": "BH",
-        "Website": ""
-    },
-    {
-        "Last": "Lavaux",
-        "First": "Guilhem",
-        "Institution": "Institut d\u2019Astrophysique de Paris",
-        "Working_Group": "BORG",
-        "Website": "https://www.guilhem-lavaux.eu"
-    },
-    {
-        "Last": "Sotoudeh",
-        "First": "Hadi",
-        "Institution": "University of Cambridge",
-        "Working_Group": "AFM",
-        "Website": ""
-    },
-    {
-        "Last": "Choi",
-        "First": "Hyunseop(Joseph)",
-        "Institution": "Universit\u00e9 de Montr\u00e9al",
-        "Working_Group": "",
-        "Website": ""
-    },
-    {
-        "Last": "Bennett",
-        "First": "Jake",
-        "Institution": "Harvard University",
-        "Working_Group": "SFGW",
-        "Website": ""
-    },
-    {
-        "Last": "Burger",
-        "First": "Jan David",
-        "Institution": "Max-Planck-Institute for Astrophysics",
-        "Working_Group": "COSMO",
-        "Website": ""
-    },
-    {
-        "Last": "Jasche",
-        "First": "Jens",
-        "Institution": "Stockholm University",
-        "Working_Group": "BORG",
-        "Website": ""
-    },
-    {
-        "Last": "Stone",
-        "First": "Jim",
-        "Institution": "Institute for Advanced Study",
-        "Working_Group": "",
-        "Website": ""
-    },
-    {
-        "Last": "Hlavacek-Larrondo",
-        "First": "Julie",
-        "Institution": "Universit\u00e9 de Montr\u00e9al",
-        "Working_Group": "BH",
-        "Website": ""
-    },
-    {
-        "Last": "Alsing",
-        "First": "Justin",
-        "Institution": "Stockholm University",
-        "Working_Group": "ILI",
-        "Website": ""
-    },
-    {
-        "Last": "Iyer",
-        "First": "Kartheik",
-        "Institution": "Columbia University",
-        "Working_Group": "SynthObs",
-        "Website": ""
-    },
-    {
-        "Last": "Su",
-        "First": "Kung-Yi",
-        "Institution": "Harvard University",
-        "Working_Group": "BH",
-        "Website": ""
-    },
-    {
-        "Last": "Hernquist",
-        "First": "Lars",
-        "Institution": "Harvard University",
-        "Working_Group": "BH",
-        "Website": ""
-    },
-    {
-        "Last": "Sommovigo",
-        "First": "Laura",
-        "Institution": "Flatiron Institute",
-        "Working_Group": "SynthObs",
-        "Website": ""
-    },
-    {
-        "Last": "Perreault-Levasseur",
-        "First": "Laurence",
-        "Institution": "Universit\u00e9 de Montr\u00e9al",
-        "Working_Group": "AFM",
-        "Website": ""
-    },
-    {
-        "Last": "Thiele",
-        "First": "Leander",
-        "Institution": "IPMU, University of Tokyo",
-        "Working_Group": "ILI",
-        "Website": ""
-    },
-    {
-        "Last": "Makinen",
-        "First": "Lucas",
-        "Institution": "Imperial College London",
-        "Working_Group": "ILI",
-        "Website": "https://tlmakinen.github.io/"
-    },
-    {
-        "Last": "Perez",
-        "First": "Lucia",
-        "Institution": "Flatiron Institute",
-        "Working_Group": "SynthObs, TSG, ILI, AFM",
-        "Website": ""
-    },
-    {
-        "Last": "Doeser",
-        "First": "Ludvig",
-        "Institution": "Stockholm University",
-        "Working_Group": "BORG",
-        "Website": ""
-    },
-    {
-        "Last": "Siwek",
-        "First": "Magdalena",
-        "Institution": "Columbia University",
-        "Working_Group": "BH",
-        "Website": ""
-    },
-    {
-        "Last": "Prunier",
-        "First": "Marine",
-        "Institution": "University de Montreal",
-        "Working_Group": "AFM",
-        "Website": ""
-    },
-    {
-        "Last": "Farcy",
-        "First": "Marion",
-        "Institution": "\u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne (EPFL)",
-        "Working_Group": "BH",
-        "Website": ""
-    },
-    {
-        "Last": "Ho",
-        "First": "Matthew",
-        "Institution": "Columbia University",
-        "Working_Group": "ILI, AFM, BORG, SynthObs, Robustness",
-        "Website": "https://maho3.github.io/"
-    },
-    {
-        "Last": "Scoggins",
-        "First": "Matthew",
-        "Institution": "Columbia University",
-        "Working_Group": "ILI",
-        "Website": ""
-    },
-    {
-        "Last": "Smith",
-        "First": "Matthew",
-        "Institution": "Max-Planck-Institute for Astrophysics",
-        "Working_Group": "SFGW",
-        "Website": ""
-    },
-    {
-        "Last": "Lee",
-        "First": "Max",
-        "Institution": "Columbia University",
         "Working_Group": "TSG",
         "Website": ""
     },
@@ -427,52 +35,38 @@
         "Website": ""
     },
     {
-        "Last": "Hirschmann",
-        "First": "Michaela",
-        "Institution": "\u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne (EPFL)",
-        "Working_Group": "SynthObs",
-        "Website": ""
-    },
-    {
-        "Last": "Cranmer",
-        "First": "Miles",
-        "Institution": "Flatiron Institute",
-        "Working_Group": "",
-        "Website": ""
-    },
-    {
-        "Last": "Guo",
-        "First": "Minghao",
-        "Institution": "Princeton University",
-        "Working_Group": "BH",
-        "Website": ""
-    },
-    {
-        "Last": "Soler Matubaro de Santi",
-        "First": "Natali",
-        "Institution": "Flatiron Institute",
-        "Working_Group": "",
-        "Website": ""
-    },
-    {
-        "Last": "Jeffrey",
-        "First": "Niall",
-        "Institution": "University College London",
+        "Last": "Bairagi",
+        "First": "Anirban",
+        "Institution": "Institut d'Astrophysique de Paris",
         "Working_Group": "ILI",
         "Website": ""
     },
     {
-        "Last": "Chartier",
-        "First": "Nicolas",
-        "Institution": "Seoul National University",
-        "Working_Group": "ILI",
+        "Last": "Bartlett",
+        "First": "Deaglan",
+        "Institution": "University of Oxford",
+        "Working_Group": "AFM, ILI, BORG, SynthObs",
+        "Website": "https://deaglanbartlett.github.io/"
+    },
+    {
+        "Last": "Bennett",
+        "First": "Jake",
+        "Institution": "Harvard University",
+        "Working_Group": "SFGW",
         "Website": ""
     },
     {
-        "Last": "Payot",
-        "First": "Nicolas",
-        "Institution": "Universit\u00e9 de Montreal",
-        "Working_Group": "AFM",
+        "Last": "Bera",
+        "First": "Ankita",
+        "Institution": "University of Maryland, College Park",
+        "Working_Group": "",
+        "Website": ""
+    },
+    {
+        "Last": "Boonkongkird",
+        "First": "Chotipan",
+        "Institution": "Institut d'Astrophysique de Paris (IAP)",
+        "Working_Group": "BORG",
         "Website": ""
     },
     {
@@ -483,6 +77,335 @@
         "Website": ""
     },
     {
+        "Last": "Bourdin",
+        "First": "Antoine",
+        "Institution": "McGill University",
+        "Working_Group": "AFM",
+        "Website": ""
+    },
+    {
+        "Last": "Bryan",
+        "First": "Greg",
+        "Institution": "Columbia University",
+        "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Burger",
+        "First": "Jan David",
+        "Institution": "Max-Planck-Institute for Astrophysics",
+        "Working_Group": "COSMO",
+        "Website": ""
+    },
+    {
+        "Last": "Chartier",
+        "First": "Nicolas",
+        "Institution": "Seoul National University",
+        "Working_Group": "ILI",
+        "Website": ""
+    },
+    {
+        "Last": "Choi",
+        "First": "Ena",
+        "Institution": "University of Seoul",
+        "Working_Group": "",
+        "Website": ""
+    },
+    {
+        "Last": "Choi",
+        "First": "Hyunseop(Joseph)",
+        "Institution": "Universit\u00e9 de Montr\u00e9al",
+        "Working_Group": "",
+        "Website": ""
+    },
+    {
+        "Last": "Cochrane",
+        "First": "Rachel",
+        "Institution": "University of Manchester",
+        "Working_Group": "SynthObs",
+        "Website": "https://users.flatironinstitute.org/~rcochrane/"
+    },
+    {
+        "Last": "Costa",
+        "First": "Tiago",
+        "Institution": "Newcastle University",
+        "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Cranmer",
+        "First": "Miles",
+        "Institution": "Flatiron Institute",
+        "Working_Group": "",
+        "Website": ""
+    },
+    {
+        "Last": "Cuesta-Lazaro",
+        "First": "Carolina",
+        "Institution": "Harvard University",
+        "Working_Group": "ILI, AFM",
+        "Website": ""
+    },
+    {
+        "Last": "Darlinger",
+        "First": "Rachel",
+        "Institution": "University de Montreal",
+        "Working_Group": "",
+        "Website": ""
+    },
+    {
+        "Last": "Delgado",
+        "First": "Ana Maria",
+        "Institution": "Harvard University",
+        "Working_Group": "ILI",
+        "Website": ""
+    },
+    {
+        "Last": "Ding",
+        "First": "Simon",
+        "Institution": "Institut d'Astrophysique de Paris",
+        "Working_Group": "BORG",
+        "Website": ""
+    },
+    {
+        "Last": "Doeser",
+        "First": "Ludvig",
+        "Institution": "Stockholm University",
+        "Working_Group": "BORG",
+        "Website": ""
+    },
+    {
+        "Last": "Farcy",
+        "First": "Marion",
+        "Institution": "\u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne (EPFL)",
+        "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Ferraro",
+        "First": "Simone",
+        "Institution": "Lawrence Berkeley Lab",
+        "Working_Group": "SynthObs",
+        "Website": ""
+    },
+    {
+        "Last": "Fielding",
+        "First": "Drummond",
+        "Institution": "New York University",
+        "Working_Group": "SFGW",
+        "Website": "https://dfielding14.github.io/"
+    },
+    {
+        "Last": "Gabrielpillai",
+        "First": "Austen",
+        "Institution": "CUNY Graduate Center",
+        "Working_Group": "SynthObs",
+        "Website": ""
+    },
+    {
+        "Last": "Garcia",
+        "First": "Fred",
+        "Institution": "Columbia University",
+        "Working_Group": "TSG",
+        "Website": "https://fred144.github.io/"
+    },
+    {
+        "Last": "Genel",
+        "First": "Shy",
+        "Institution": "Flatiron Institute",
+        "Working_Group": "TSG",
+        "Website": ""
+    },
+    {
+        "Last": "Genina",
+        "First": "Anna",
+        "Institution": "Max-Planck-Institute for Astrophysics",
+        "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Guo",
+        "First": "Minghao",
+        "Institution": "Princeton University",
+        "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Hadzhiyska",
+        "First": "Boryana",
+        "Institution": "University of California Berkeley",
+        "Working_Group": "SynthObs",
+        "Website": ""
+    },
+    {
+        "Last": "Hahn",
+        "First": "ChangHoon",
+        "Institution": "Princeton University",
+        "Working_Group": "ILI",
+        "Website": ""
+    },
+    {
+        "Last": "Hassan",
+        "First": "Sultan",
+        "Institution": "NYU",
+        "Working_Group": "SFGW, SynthObs",
+        "Website": ""
+    },
+    {
+        "Last": "Hattori",
+        "First": "Soichiro",
+        "Institution": "Columbia University Astronomy Department",
+        "Working_Group": "",
+        "Website": ""
+    },
+    {
+        "Last": "Hayward",
+        "First": "Chris",
+        "Institution": "Flatiron Institute",
+        "Working_Group": "SynthObs",
+        "Website": ""
+    },
+    {
+        "Last": "Hernquist",
+        "First": "Lars",
+        "Institution": "Harvard University",
+        "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Hezaveh",
+        "First": "Yashar",
+        "Institution": "Universit\u00e9 de Montr\u00e9al",
+        "Working_Group": "",
+        "Website": ""
+    },
+    {
+        "Last": "Hirschmann",
+        "First": "Michaela",
+        "Institution": "\u00c9cole polytechnique f\u00e9d\u00e9rale de Lausanne (EPFL)",
+        "Working_Group": "SynthObs",
+        "Website": ""
+    },
+    {
+        "Last": "Hlavacek-Larrondo",
+        "First": "Julie",
+        "Institution": "Universit\u00e9 de Montr\u00e9al",
+        "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Ho",
+        "First": "Matthew",
+        "Institution": "Columbia University",
+        "Working_Group": "ILI, AFM, BORG, SynthObs, Robustness",
+        "Website": "https://maho3.github.io/"
+    },
+    {
+        "Last": "Ho",
+        "First": "Shirley",
+        "Institution": "Flatiron institute",
+        "Working_Group": "ILI, AFM",
+        "Website": ""
+    },
+    {
+        "Last": "Iyer",
+        "First": "Kartheik",
+        "Institution": "Columbia University",
+        "Working_Group": "SynthObs",
+        "Website": ""
+    },
+    {
+        "Last": "Jasche",
+        "First": "Jens",
+        "Institution": "Stockholm University",
+        "Working_Group": "BORG",
+        "Website": ""
+    },
+    {
+        "Last": "Jeffreson",
+        "First": "Sarah",
+        "Institution": "Harvard University",
+        "Working_Group": "SFGW",
+        "Website": ""
+    },
+    {
+        "Last": "Jeffrey",
+        "First": "Niall",
+        "Institution": "University College London",
+        "Working_Group": "ILI",
+        "Website": ""
+    },
+    {
+        "Last": "Jespersen",
+        "First": "Christian",
+        "Institution": "Princeton University",
+        "Working_Group": "ILI, AFM",
+        "Website": ""
+    },
+    {
+        "Last": "Jindal",
+        "First": "Vaibhav",
+        "Institution": "Carnegie Mellon University",
+        "Working_Group": "",
+        "Website": ""
+    },
+    {
+        "Last": "Jo",
+        "First": "Yongseok",
+        "Institution": "Columbia University",
+        "Working_Group": "TSG",
+        "Website": ""
+    },
+    {
+        "Last": "Kim",
+        "First": "Chang-Goo",
+        "Institution": "Princeton University",
+        "Working_Group": "SFGW",
+        "Website": "https://changgoo.github.io/"
+    },
+    {
+        "Last": "Koudmani",
+        "First": "Sophie",
+        "Institution": "University of Hertfordshire",
+        "Working_Group": "BH",
+        "Website": "https://skoudmani.github.io/"
+    },
+    {
+        "Last": "Lapel",
+        "First": "Axel",
+        "Institution": "Institut d'Astrophysique de Paris",
+        "Working_Group": "BORG",
+        "Website": ""
+    },
+    {
+        "Last": "Lavaux",
+        "First": "Guilhem",
+        "Institution": "Institut d\u2019Astrophysique de Paris",
+        "Working_Group": "BORG",
+        "Website": "https://www.guilhem-lavaux.eu"
+    },
+    {
+        "Last": "Leclercq",
+        "First": "Florent",
+        "Institution": "Institut d'Astrophysique de Paris",
+        "Working_Group": "BORG",
+        "Website": ""
+    },
+    {
+        "Last": "Lee",
+        "First": "Max",
+        "Institution": "Columbia University",
+        "Working_Group": "TSG",
+        "Website": ""
+    },
+    {
+        "Last": "Legin",
+        "First": "Ronan",
+        "Institution": "Universit\u00e9 de Montr\u00e9al",
+        "Working_Group": "AFM",
+        "Website": ""
+    },
+    {
         "Last": "Lemos",
         "First": "Pablo",
         "Institution": "MILA / Universit\u00e9 de Montr\u00e9al",
@@ -490,16 +413,149 @@
         "Website": ""
     },
     {
-        "Last": "Cochrane",
-        "First": "Rachel",
-        "Institution": "University of Edinburgh",
+        "Last": "Levy",
+        "First": "Daniel",
+        "Institution": "University de Montreal",
+        "Working_Group": "",
+        "Website": ""
+    },
+    {
+        "Last": "Lovell",
+        "First": "Chris",
+        "Institution": "University of Cambridge",
+        "Working_Group": "SynthObs, TSG",
+        "Website": "https://www.christopherlovell.co.uk/"
+    },
+    {
+        "Last": "Makinen",
+        "First": "Lucas",
+        "Institution": "Imperial College London",
+        "Working_Group": "ILI",
+        "Website": "https://tlmakinen.github.io/"
+    },
+    {
+        "Last": "Malandrino",
+        "First": "Rosa",
+        "Institution": "Institut d'Astrophysique de Paris",
+        "Working_Group": "ILI",
+        "Website": ""
+    },
+    {
+        "Last": "Modi",
+        "First": "Chirag",
+        "Institution": "Flatiron Institute",
+        "Working_Group": "ILI",
+        "Website": ""
+    },
+    {
+        "Last": "Ni",
+        "First": "Yeuying",
+        "Institution": "Harvard University",
+        "Working_Group": "",
+        "Website": ""
+    },
+    {
+        "Last": "Oh",
+        "First": "Boon Kiat",
+        "Institution": "University of Connecticut",
+        "Working_Group": "TSG",
+        "Website": ""
+    },
+    {
+        "Last": "Ostriker",
+        "First": "Eve",
+        "Institution": "Princeton University",
+        "Working_Group": "SFGW",
+        "Website": ""
+    },
+    {
+        "Last": "Pakmor",
+        "First": "Ruediger",
+        "Institution": "Max-Planck-Institute for Astrophysics",
+        "Working_Group": "COSMO",
+        "Website": ""
+    },
+    {
+        "Last": "Pandey",
+        "First": "Shivam",
+        "Institution": "University of Pennsylvania",
+        "Working_Group": "ILI, AFM, SynthObs",
+        "Website": ""
+    },
+    {
+        "Last": "Pandya",
+        "First": "Viraj",
+        "Institution": "Columbia University",
         "Working_Group": "SynthObs",
         "Website": ""
     },
     {
-        "Last": "Darlinger",
-        "First": "Rachel",
+        "Last": "Payot",
+        "First": "Nicolas",
+        "Institution": "Universit\u00e9 de Montreal",
+        "Working_Group": "AFM",
+        "Website": ""
+    },
+    {
+        "Last": "Perez",
+        "First": "Lucia",
+        "Institution": "Flatiron Institute",
+        "Working_Group": "SynthObs, TSG, ILI, AFM",
+        "Website": ""
+    },
+    {
+        "Last": "Perreault-Levasseur",
+        "First": "Laurence",
+        "Institution": "Universit\u00e9 de Montr\u00e9al",
+        "Working_Group": "AFM",
+        "Website": ""
+    },
+    {
+        "Last": "Prunier",
+        "First": "Marine",
         "Institution": "University de Montreal",
+        "Working_Group": "AFM",
+        "Website": ""
+    },
+    {
+        "Last": "Quataert",
+        "First": "Eliot",
+        "Institution": "Princeton University",
+        "Working_Group": "",
+        "Website": ""
+    },
+    {
+        "Last": "Scoggins",
+        "First": "Matthew",
+        "Institution": "Columbia University",
+        "Working_Group": "ILI",
+        "Website": ""
+    },
+    {
+        "Last": "Singh",
+        "First": "Aarti",
+        "Institution": "Carnegie Mellon University",
+        "Working_Group": "Robustness",
+        "Website": ""
+    },
+    {
+        "Last": "Siwek",
+        "First": "Magdalena",
+        "Institution": "Columbia University",
+        "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Smith",
+        "First": "Matthew",
+        "Institution": "Max-Planck-Institute for Astrophysics",
+        "Working_Group": "SFGW",
+        "Website": ""
+    },
+    {
+        "Last": "Soler Matubaro de Santi",
+        "First": "Natali",
+        "Institution": "Flatiron Institute",
         "Working_Group": "",
         "Website": ""
     },
@@ -511,122 +567,31 @@
         "Website": ""
     },
     {
-        "Last": "Weinberger",
-        "First": "Rainer",
-        "Institution": "Leibniz Institute for Astrophysics Potsdam (AIP)",
-        "Working_Group": "BH",
+        "Last": "Sommovigo",
+        "First": "Laura",
+        "Institution": "Flatiron Institute",
+        "Working_Group": "SynthObs",
         "Website": ""
     },
     {
-        "Last": "Legin",
-        "First": "Ronan",
-        "Institution": "Universit\u00e9 de Montr\u00e9al",
+        "Last": "Sotoudeh",
+        "First": "Hadi",
+        "Institution": "University of Cambridge",
         "Working_Group": "AFM",
         "Website": ""
     },
     {
-        "Last": "Malandrino",
-        "First": "Rosa",
-        "Institution": "Institut d'Astrophysique de Paris",
-        "Working_Group": "ILI",
-        "Website": ""
-    },
-    {
-        "Last": "Talbot",
-        "First": "Rosemary",
-        "Institution": "Max-Planck-Institute for Astrophysics",
-        "Working_Group": "BH",
-        "Website": ""
-    },
-    {
-        "Last": "Pakmor",
-        "First": "Ruediger",
-        "Institution": "Max-Planck-Institute for Astrophysics",
-        "Working_Group": "COSMO",
-        "Website": ""
-    },
-    {
-        "Last": "Ward",
-        "First": "Samuel",
-        "Institution": "Flatiron Institute",
-        "Working_Group": "BH",
-        "Website": ""
-    },
-    {
-        "Last": "Jeffreson",
-        "First": "Sarah",
-        "Institution": "Harvard University",
-        "Working_Group": "SFGW",
-        "Website": ""
-    },
-    {
-        "Last": "Ho",
-        "First": "Shirley",
-        "Institution": "Flatiron institute",
-        "Working_Group": "ILI, AFM",
-        "Website": ""
-    },
-    {
-        "Last": "Pandey",
-        "First": "Shivam",
-        "Institution": "University of Pennsylvania",
-        "Working_Group": "ILI, AFM, SynthObs",
-        "Website": ""
-    },
-    {
-        "Last": "Genel",
-        "First": "Shy",
-        "Institution": "Flatiron Institute",
-        "Working_Group": "TSG",
-        "Website": ""
-    },
-    {
-        "Last": "Ding",
-        "First": "Simon",
-        "Institution": "Institut d'Astrophysique de Paris",
-        "Working_Group": "BORG",
-        "Website": ""
-    },
-    {
-        "Last": "Ferraro",
-        "First": "Simone",
-        "Institution": "Lawrence Berkeley Lab",
-        "Working_Group": "SynthObs",
-        "Website": ""
-    },
-    {
-        "Last": "Hattori",
-        "First": "Soichiro",
-        "Institution": "Columbia University Astronomy Department",
+        "Last": "Spergel",
+        "First": "David",
+        "Institution": "Simons Foundation",
         "Working_Group": "",
         "Website": ""
     },
     {
-        "Last": "Koudmani",
-        "First": "Sophie",
-        "Institution": "University of Hertfordshire",
-        "Working_Group": "BH",
-        "Website": "https://skoudmani.github.io/"
-    },
-    {
-        "Last": "Wilkins",
-        "First": "Steve",
-        "Institution": "University of Sussex",
-        "Working_Group": "SynthObs",
-        "Website": ""
-    },
-    {
-        "Last": "Hassan",
-        "First": "Sultan",
-        "Institution": "NYU",
-        "Working_Group": "SFGW, SynthObs",
-        "Website": ""
-    },
-    {
-        "Last": "Costa",
-        "First": "Tiago",
-        "Institution": "Newcastle University",
-        "Working_Group": "BH",
+        "Last": "Springel",
+        "First": "Volker",
+        "Institution": "Max-Planck-Institute for Astrophysics",
+        "Working_Group": "COSMO",
         "Website": ""
     },
     {
@@ -644,24 +609,87 @@
         "Website": ""
     },
     {
-        "Last": "Jindal",
-        "First": "Vaibhav",
-        "Institution": "Carnegie Mellon University",
+        "Last": "Stone",
+        "First": "Jim",
+        "Institution": "Institute for Advanced Study",
         "Working_Group": "",
         "Website": ""
     },
     {
-        "Last": "Pandya",
-        "First": "Viraj",
-        "Institution": "Columbia University",
+        "Last": "Su",
+        "First": "Kung-Yi",
+        "Institution": "Harvard University",
+        "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Talbot",
+        "First": "Rosemary",
+        "Institution": "Max-Planck-Institute for Astrophysics",
+        "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Terrazas",
+        "First": "Bryan",
+        "Institution": "Oberlin College",
+        "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Thiele",
+        "First": "Leander",
+        "Institution": "IPMU, University of Tokyo",
+        "Working_Group": "ILI",
+        "Website": ""
+    },
+    {
+        "Last": "Villaescusa-Navarro",
+        "First": "Francisco",
+        "Institution": "Flatiron Institute",
+        "Working_Group": "TSG",
+        "Website": ""
+    },
+    {
+        "Last": "Wandelt",
+        "First": "Ben",
+        "Institution": "Johns Hopkins University",
+        "Working_Group": "ILI",
+        "Website": ""
+    },
+    {
+        "Last": "Ward",
+        "First": "Samuel",
+        "Institution": "Flatiron Institute",
+        "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Weinberger",
+        "First": "Rainer",
+        "Institution": "Leibniz Institute for Astrophysics Potsdam (AIP)",
+        "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Wilkins",
+        "First": "Steve",
+        "Institution": "University of Sussex",
         "Working_Group": "SynthObs",
         "Website": ""
     },
     {
-        "Last": "Springel",
-        "First": "Volker",
-        "Institution": "Max-Planck-Institute for Astrophysics",
-        "Working_Group": "COSMO",
+        "Last": "Wilson",
+        "First": "Charles",
+        "Institution": "University de Montreal",
+        "Working_Group": "",
+        "Website": ""
+    },
+    {
+        "Last": "Yung",
+        "First": "Aaron",
+        "Institution": "Space Telescope Science Institute",
+        "Working_Group": "SynthObs",
         "Website": ""
     },
     {
@@ -669,27 +697,6 @@
         "First": "Xiaosheng",
         "Institution": "Johns Hopkins University",
         "Working_Group": "ILI",
-        "Website": ""
-    },
-    {
-        "Last": "Hezaveh",
-        "First": "Yashar",
-        "Institution": "Universit\u00e9 de Montr\u00e9al",
-        "Working_Group": "",
-        "Website": ""
-    },
-    {
-        "Last": "Ni",
-        "First": "Yeuying",
-        "Institution": "Harvard University",
-        "Working_Group": "",
-        "Website": ""
-    },
-    {
-        "Last": "Jo",
-        "First": "Yongseok",
-        "Institution": "Columbia University",
-        "Working_Group": "TSG",
         "Website": ""
     }
 ]
