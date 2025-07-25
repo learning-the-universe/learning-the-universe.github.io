@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Dust Modeling
-description: Modeling dust attenuation in galaxy SEDs
+title: Dust Modelling
+description: Modelling dust attenuation in galaxy SEDs
 img:
 importance: 1
 category: Synthetic Observations
