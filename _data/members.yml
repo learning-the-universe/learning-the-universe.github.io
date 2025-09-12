@@ -612,7 +612,7 @@
         "Last": "Stiskalek",
         "First": "Richard",
         "Institution": "University of Oxford",
-        "Working_Group": "BORG,ILI",
+        "Working_Group": "BORG, ILI",
         "Website": "https://richard-sti.github.io/"
     },
     {
@@ -627,6 +627,13 @@
         "First": "Kung-Yi",
         "Institution": "Harvard University",
         "Working_Group": "BH",
+        "Website": ""
+    },
+    {
+        "Last": "Sui",
+        "First": "Ce",
+        "Institution": "Tsinghua University",
+        "Working_Group": "ILI, AFM",
         "Website": ""
     },
     {
