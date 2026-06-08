@@ -216,13 +216,19 @@ Photo formatting is made simple using [Bootstrap's grid system](https://getboots
 
 ### Other features
 
-#### GitHub's repositories and user stats
+#### Collaboration repositories
 
-**al-folio** uses [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) to display GitHub repositories and user stats on the `/repositories/` page.
+Edit `_data/repositories.yml` to list repositories on the `/repositories/` page. Each entry supports any URL, not just GitHub:
 
-[![Repositories Preview](readme_preview/repositories.png)](https://alshedivat.github.io/al-folio/repositories/)
-
-Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories to the `/repositories/` page.
+```yaml
+repos:
+  - name: org/repo-name
+    url: https://github.com/org/repo-name
+    description: A short description of the repository.
+  - name: org/another-repo
+    url: https://gitlab.com/org/another-repo
+    description: Works with GitLab, Bitbucket, or any URL.
+```
 
 You may also use the following codes for displaying this in any other pages.
 
@@ -243,10 +249,10 @@ You may also use the following codes for displaying this in any other pages.
 </div>
 {% endfor %} {% endif %}
 
-<!-- code for GitHub repositories -->
-{% if site.data.repositories.github_repos %}
+<!-- code for collaboration repositories -->
+{% if site.data.repositories.repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %} {% include repository/repo.liquid repository=repo %} {% endfor %}
+  {% for repo in site.data.repositories.repos %} {% include repository/repo.liquid repository=repo %} {% endfor %}
 </div>
 {% endif %}
 ```
